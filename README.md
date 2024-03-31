@@ -9,12 +9,12 @@ To run the app, you will need to have Python and Streamlit installed. You will a
 
 - To install the required Python packages, run the following command:
 
-## Copy code
+Copy code
 ```
 $ pip install -r requirements.txt
 ```
 
-Usage
+## Usage
 To run the app, simply execute the following command:
 
 Copy code
